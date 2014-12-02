@@ -42,7 +42,7 @@ include_once 'AssetsManager.php';
 ```
 
 ##### now call render function to render your css/javascript package:
-``` html
-<?php echo BundleConfig::render("css/yourNameHere"); ?> // Render your css package
-<?php echo BundleConfig::render("js/yourNameHere"); ?> // Render your javascript package
+``` php
+echo BundleConfig::render("css/yourNameHere");  // Render your css package
+echo BundleConfig::render("js/yourNameHere");   // Render your javascript package
 ```
