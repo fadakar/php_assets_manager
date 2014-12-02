@@ -4,8 +4,8 @@ php_assets_manager
 ##micro assets manager for php
 
 Manage your cascade style sheet and javascript files with php assets manager
-Create new package (css/javascript) add some files into package and in html
-Render your package with one line Code. 
+create new package (css/javascript) add some files into package and in html
+render your package with one line Code. 
 
 
 ### How to include
